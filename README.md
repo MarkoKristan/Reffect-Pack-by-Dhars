@@ -1,6 +1,6 @@
 # Reffect-Pack-by-Dhars
 
-IGN: DharsOffifical.1749
+IGN: DharsOfficial.1749
 
 A Reffect pack for Guild Wars 2 featuring a minimal and clean HUD for the Necromancer, focused on the Reaper and Scourge. 
 
